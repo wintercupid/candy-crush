@@ -1,2 +1,2 @@
 # candy-crush
-malwer that crushes ur windows system
+malwear that crushes ur windows system
